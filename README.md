@@ -81,13 +81,16 @@ The following steps were implemented:
 ---
 
 ## Project Structure
-rtl/ Verilog RTL
-constraints/ SDC constraints
-synthesis/ Gate-level netlist
-scripts/ Innovus and MMMC TCL scripts
-reports/ Area, timing, and power reports
-gds/ Final GDSII layout
-images/ Screenshots used in README
+
+```
+rtl/            Verilog RTL  
+constraints/    SDC constraints  
+synthesis/      Gate-level netlist  
+scripts/        Innovus and MMMC TCL scripts  
+reports/        Area, timing, and power reports  
+gds/            Final GDSII layout  
+images/         Screenshots used in README  
+```
 
 ---
 
