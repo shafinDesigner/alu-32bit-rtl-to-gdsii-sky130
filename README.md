@@ -1,5 +1,5 @@
 # 32-bit ALU RTL-to-GDSII Implementation (SKY130, Cadence Innovus)
-
+> Complete RTL-to-GDSII ASIC implementation of a 32-bit ALU using Cadence Innovus and SKY130 with successful timing closure.
 ## Overview
 
 This project demonstrates a complete RTL-to-GDSII ASIC physical design flow using Cadence Innovus and the SKY130 standard cell library.
