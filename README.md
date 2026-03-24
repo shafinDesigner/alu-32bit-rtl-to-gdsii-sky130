@@ -86,7 +86,7 @@ The following steps were implemented:
 rtl/            Verilog RTL  
 constraints/    SDC constraints  
 synthesis/      Gate-level netlist  
-scripts/        Innovus and MMMC TCL scripts  
+docs/           full project documentation in a .docx file
 reports/        Area, timing, and power reports  
 gds/            Final GDSII layout  
 images/         Screenshots used in README  
